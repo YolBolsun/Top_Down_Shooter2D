@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b091ccba5f68cf9449e1657ee7094788
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LossScene.unity
+    guid: 607cfe0f3a6e15440a7b498b733fa392
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 03b05db9337186340b633fc9fb52a17c
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 7c20da5fcc9e95b4e8b41191bee3a8b0
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: a62d7c1a52fe6294da5e081dcc10c6d7
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: 95338db1d5fd2ab4793998e38dc91578
+  - enabled: 1
+    path: Assets/Scenes/retrieveGenerator.unity
+    guid: c853bfbff1ce16d40920eb8d91683905
+  - enabled: 1
+    path: Assets/Scenes/generatedContent.unity
+    guid: 64a3b521c8d24c046b3e22abc47f4565
+  - enabled: 1
+    path: Assets/Scenes/Attempt2GeneratedContent.unity
+    guid: eead4ff2dd93c8f47a326fd36e8fd6d1
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 0a14c04bff9111545872a49e084e3454
+  - enabled: 1
+    path: Assets/Scenes/BarricadeQuest.unity
+    guid: 3b5634b50539e2247ba565abf796e1b4
+  - enabled: 1
+    path: Assets/Scenes/FarmingQuest.unity
+    guid: 237dcb9050363e645beb561dd1c8c847
+  m_configObjects: {}

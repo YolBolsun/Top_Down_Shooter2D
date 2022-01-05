@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[System.Serializable]
+public class SaveState
+{
+    public SavePlayer savePlayer;
+    public SaveTownState saveTownState;
+    public SaveGameProgress saveGameProgress;
+    
+}

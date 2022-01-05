@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &261289811143856750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 261289811143856748}
+  - component: {fileID: 261289811143856751}
+  m_Layer: 0
+  m_Name: ItemAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &261289811143856748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261289811143856750}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 699.99994, y: 497.00006, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &261289811143856751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261289811143856750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee2b06f04118764c9eb19f678910b0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pistolSprite: {fileID: 1931150932846567135, guid: 77aa7520cf253d64e86a04eed8a6d883, type: 3}
+  rifleSprite: {fileID: -2331371138823180934, guid: 77aa7520cf253d64e86a04eed8a6d883, type: 3}
+  shotgunSprite: {fileID: -8356016166394921431, guid: 77aa7520cf253d64e86a04eed8a6d883, type: 3}
+  helmetSprite: {fileID: -9127999021170658012, guid: 8b0f7340ba6fc2c47ac68bfb8e0540f3, type: 3}
+  armorSprite: {fileID: -8125250903213588322, guid: 8b0f7340ba6fc2c47ac68bfb8e0540f3, type: 3}
+  bootsSprite: {fileID: 642346830327305365, guid: 8b0f7340ba6fc2c47ac68bfb8e0540f3, type: 3}
+  grenadeSprite: {fileID: 3558080365999673859, guid: 8b0f7340ba6fc2c47ac68bfb8e0540f3, type: 3}
+  otherSprite: {fileID: -7372767806398657097, guid: 8b0f7340ba6fc2c47ac68bfb8e0540f3, type: 3}
+  pfWorldItem: {fileID: 7527919558149980902, guid: b80d8f284d291c84e92860f5ec80fc6f, type: 3}
